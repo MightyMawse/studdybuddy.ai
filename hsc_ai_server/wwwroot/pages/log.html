@@ -1,0 +1,75 @@
+<html>
+<head>
+    <link rel="stylesheet" href="../css/site.css">
+    <link rel="stylesheet" href="../css/log.css">
+    <script src="../js/log.js"></script>
+</head>
+<body>
+    <div class="header-panel">
+        <div class="header-panel-widgets-container">
+            <div class="header-panel-widgets">
+                <img src="/img/ico/user.png" style="height: 15px; width: 15px; background-color: #d8dbe2;"> 
+                Login
+            </div>
+            <div class="header-panel-widgets" style="right: 7%;">
+                <img src="/img/ico/user-add.png" style="height: 15px; width: 15px; background-color: #d8dbe2;"> 
+                Sign Up
+            </div>
+        </div>
+    </div>
+
+    <!--Header menu panel-->
+    <div class="menu-panel-container">
+        <a class="logo" href="../index.html"></a>
+        <div class="menu-panel-button-container">
+            <a class="menu-panel-button" href="../index.html">
+                <img src="/img/ico/home.png" style="height: 15px; width: 15px;"> 
+                Home
+            </a>
+            <a class="menu-panel-button" href="subjects.html">
+                <img src="/img/ico/apps.png" style="height: 15px; width: 15px;"> 
+                Subjects
+            </a>
+            <a class="menu-panel-button" href="about.html">
+                <img src="/img/ico/eye.png" style="height: 15px; width: 15px;"> 
+                About us
+            </a>
+            <a class="menu-panel-button" href="pricing.html">Pricing</a>
+            <a class="menu-panel-button" href="contacts.html">
+                <img src="/img/ico/whatsapp.png" style="height: 15px; width: 15px;"> 
+                Contacts us
+            </a>
+        </div>
+    </div>
+
+    <!--Login panel-->
+    <div class="login-panel">
+        Login/Register
+        <hr style="border-radius: 100%; width: 90%;">
+        <br>
+        <input class="login-panel-field" placeholder="Email Address..." id="input_login">
+        <br>
+        <input class="login-panel-field" placeholder="Password..." type="password" id="input_password">
+        <div class="login-field-subtext" id="incorrect_notif">
+            Incorrect Login email or password.
+        </div>
+        <br>
+
+        <div style="display:flex; justify-content: center;">
+            <div class="login-panel-btn" onclick="Login()">
+                Login
+                <div class="login-panel-btn-subtext">
+                    Welcome back friend!
+                </div>
+            </div>
+            <div class="login-panel-btn" onclick="Register()">
+                Join the club
+                <div class="login-panel-btn-subtext">
+                    Let's get it!
+                </div>
+            </div>
+        </div>
+        <a style="font-size: 18px;font-family: Verdana, Geneva, Tahoma, sans-serif; color: #d8dbe2;" href="">Forgot password</a>
+    </div>
+</body>
+</html>

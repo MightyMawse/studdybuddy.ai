@@ -1,0 +1,27 @@
+{
+    "subject-name": "Physics",
+    "modules": {
+      "Advanced Mechanics":"3",
+      "Electromagnetism":"7",
+      "Nature of Light":"11",
+      "Nuclear":"16"
+    },
+  "topics": {
+    "-Projectile Motion": "projectile_motion.txt",
+    "-Circular Motion": "circular_motion.txt",
+    "-Motion in gravitational field": "circular_motion.txt",
+    "-Charge & electro/magnetic fields": "electromagnetism.txt",
+    "-Motor effect": "electromagnetism.txt",
+    "-Induction": "electromagnetism.txt",
+    "-Applications of motor effect": "electromagnetism.txt",
+    "-Electromagnetic spectrum": "light.txt",
+    "-Light wave model": "light.txt",
+    "-Light quantum model": "light.txt",
+    "-Light and special relativity": "special_relativity.txt",
+    "-Origins of elements": "nuclear.txt",
+    "-Atomic structure": "nuclear.txt",
+    "-Quantum mechanics of the atom": "nuclear.txt",
+    "-Properties of the nucleus": "nuclear.txt",
+    "-Inside the atom": "nuclear.txt"
+  }
+}

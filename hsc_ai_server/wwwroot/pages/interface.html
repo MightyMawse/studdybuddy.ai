@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="../css/site.css">
+        <link rel="stylesheet" href="../css/interface.css">
+        <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+        <script src="../js/interface.js"></script>
+        <title>StudyBuddy.ai - Interface</title>
+    </head>
+    <body style="background-color: #29292e;" onload="AnimateProgressBar(), Init()">
+        <div class="toolbar-container">
+            <div class="toolbar-item" title="Relevant videos">
+                <img src="../img/ico/youtube.png" class="toolbar-item-img">
+            </div>
+            <div class="toolbar-item" title="External Links">
+                <img src="../img/ico/world.png" class="toolbar-item-img">
+            </div>
+            <div class="toolbar-item" title="Gallery">
+                <img src="../img/ico/picture.png" class="toolbar-item-img">
+            </div>
+        </div>
+        <div class="chatbox-container">
+            <div class="side-panel" id="side_panel">
+                <div title="Progress" class="side-panel-spine" id="sidepanel_spine"></div>
+            </div>
+            <textarea readonly class="chatbox" id="chatbox"></textarea>
+            <div class="chatbox-widgets">
+                <textarea id="chatboxinput" class="chatbox-input" placeholder="Endless possibilities..."></textarea>
+                <a class="chatbox-button" onclick="SendQuery()" id="btn_ask">Ask</a>
+            </div>
+        </div>
+    </body>
+</html>

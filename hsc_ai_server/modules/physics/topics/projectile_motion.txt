@@ -1,0 +1,17 @@
+﻿Engineering notes/content to cover:
+-Technical drawings and their terminology [DONE]
+-Method of joints and sections (BEAMS AND TRUSSES) [DONE]
+-Bending and shear diagrams/calculations (BEAMS AND TRUSSES) [DONE]
+-PLEA formula [DONE]
+-Pressure and hydraulics [DONE]
+-Polymers [DONE]
+-Graphical method
+-Materials and microstructures
+-UDL (BEAMS AND TRUSSES)
+-Beams (BEAMS AND TRUSSES) [DONE]
+-Punch force
+-Youngs Modulus/Stress and strain curves [DONE]
+-Casting
+-Welding
+-Mechanical advantage
+-Crack theory 

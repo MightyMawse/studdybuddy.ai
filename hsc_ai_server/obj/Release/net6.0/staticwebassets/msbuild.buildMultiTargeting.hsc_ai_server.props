@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\hsc_ai_server.props" />
+</Project>

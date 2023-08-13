@@ -1,0 +1,27 @@
+{
+    "subject-name": "Biology",
+    "modules": {
+      "Heredity":"5",
+      "Genetic Change":"8",
+      "Infectious Disease":"12",
+      "Non-Infectious Disease":"16"
+    },
+    "topcis":[
+      "-Reproduction",
+      "-Cell replication",
+      "-DNA and polypeptide synthesis",
+      "-Genetic variation",
+      "-Mutation",
+      "-Biotechnology",
+      "-Genetic Technologies",
+      "-Cause of infectious disease",
+      "-Responses to pathogens",
+      "-Immunity",
+      "-Prevention, treatment and control",
+      "-Homeostasis",
+      "-Causes and effects",
+      "-Epidemiology",
+      "-Prevention",
+      "-Technologies and disorders"
+    ]
+  }

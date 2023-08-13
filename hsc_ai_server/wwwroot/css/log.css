@@ -1,0 +1,76 @@
+.login-panel{
+    border-width: 1px;
+    border-style: solid;
+    border-color: lightgray;
+    border-radius: 2%;
+    width: 25%;
+    height: 60%;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    color: lightgray;
+    font-family: caviar;
+    text-align: center;
+    padding-top: 2%;
+    font-size: 40px;
+    box-shadow: 0 0 1000px gray;
+}
+
+.login-panel-field{
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2%;
+    resize: none;
+    outline: none;
+    background-color: transparent;
+    margin-top: 10%;
+    width: 80%;
+    color: lightgray;
+    height: 5%;
+    font-size: 20px;
+    padding: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 0 0 10px black;
+}
+
+.login-panel-btn{
+    border-color: lightgray;
+    border-width: 1px;
+    border-style: solid;
+    width: 40%;
+    height: 1%;
+    margin-top: 10%;
+    padding-top: 4%;
+    font-size: 20px;
+    transition-duration: 500ms;
+    margin-left: 1%;
+    cursor: pointer;
+}
+
+.login-field-subtext{
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    text-align: left;
+    margin-left: 11%;
+    visibility: hidden;
+}
+
+.login-panel-btn-subtext{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    visibility: hidden;
+    transition-duration: 200ms;
+}
+
+.login-panel-btn:hover{
+    background-color: #d8dbe2;
+    color: black;
+}
+
+.login-panel-btn:hover .login-panel-btn-subtext{
+    visibility: visible;
+    margin-bottom: 5%;
+}

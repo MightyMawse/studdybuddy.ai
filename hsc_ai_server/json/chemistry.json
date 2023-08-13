@@ -1,0 +1,27 @@
+{
+    "subject-name": "Chemistry",
+    "modules": {
+      "Equilibrium Reactions":"4",
+      "Acid-base Reactions":"7",
+      "Organic Chemistry":"13",
+      "Applying Chemical Ideas":"16"
+    },
+    "topcis":[
+      "-Static and Dynamic equilibrium",
+      "-Factors that affect equilibrium",
+      "-Calculating the equilibrium constant",
+      "-Solution Equilibria",
+      "-Properties of acids and bases",
+      "-Using Bronsted-Lowry theory",
+      "-Quantitative analysis",
+      "-Nomenclature",
+      "-Hydrocarbons",
+      "-Products of reactions involving hydrocarbons",
+      "-Alcohols",
+      "-Reactions of organic acids and bases",
+      "-Polymers",
+      "-Analysis of inorganic substances",
+      "-Analysis of organic substances",
+      "-Chemical synthesis and design"
+    ]
+}

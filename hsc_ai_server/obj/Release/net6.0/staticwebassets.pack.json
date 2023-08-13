@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\hsc_ai_server.bundle.scp.css",
+      "PackagePath": "staticwebassets\\hsc_ai_server.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\css\\gradient-background.css",
+      "PackagePath": "staticwebassets\\css\\gradient-background.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\css\\interface.css",
+      "PackagePath": "staticwebassets\\css\\interface.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\css\\log.css",
+      "PackagePath": "staticwebassets\\css\\log.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\fonts\\BebasNeue-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\BebasNeue-Regular.ttf"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\fonts\\CaviarDreams.ttf",
+      "PackagePath": "staticwebassets\\fonts\\CaviarDreams.ttf"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\fonts\\THEBOLDFONT.ttf",
+      "PackagePath": "staticwebassets\\fonts\\THEBOLDFONT.ttf"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\img\\background.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\bio.jpg",
+      "PackagePath": "staticwebassets\\img\\bio.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\business.jpg",
+      "PackagePath": "staticwebassets\\img\\business.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\chem.jpg",
+      "PackagePath": "staticwebassets\\img\\chem.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\economics.jpg",
+      "PackagePath": "staticwebassets\\img\\economics.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\engineering.jpg",
+      "PackagePath": "staticwebassets\\img\\engineering.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\english.jpg",
+      "PackagePath": "staticwebassets\\img\\english.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\geometry.jpg",
+      "PackagePath": "staticwebassets\\img\\geometry.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\ico\\angle-left.png",
+      "PackagePath": "staticwebassets\\img\\ico\\angle-left.png"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\ico\\apps.png",
+      "PackagePath": "staticwebassets\\img\\ico\\apps.png"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\ico\\eye.png",
+      "PackagePath": "staticwebassets\\img\\ico\\eye.png"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\ico\\home.png",
+      "PackagePath": "staticwebassets\\img\\ico\\home.png"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\ico\\link-alt.png",
+      "PackagePath": "staticwebassets\\img\\ico\\link-alt.png"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\ico\\picture.png",
+      "PackagePath": "staticwebassets\\img\\ico\\picture.png"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\ico\\user-add.png",
+      "PackagePath": "staticwebassets\\img\\ico\\user-add.png"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\ico\\user.png",
+      "PackagePath": "staticwebassets\\img\\ico\\user.png"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\ico\\whatsapp.png",
+      "PackagePath": "staticwebassets\\img\\ico\\whatsapp.png"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\ico\\world.png",
+      "PackagePath": "staticwebassets\\img\\ico\\world.png"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\ico\\youtube.png",
+      "PackagePath": "staticwebassets\\img\\ico\\youtube.png"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\logo.PNG",
+      "PackagePath": "staticwebassets\\img\\logo.PNG"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\logo2.PNG",
+      "PackagePath": "staticwebassets\\img\\logo2.PNG"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\logo3.PNG",
+      "PackagePath": "staticwebassets\\img\\logo3.PNG"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\math.jpg",
+      "PackagePath": "staticwebassets\\img\\math.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\physics.jpg",
+      "PackagePath": "staticwebassets\\img\\physics.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\physics\\adv_mech.jpg",
+      "PackagePath": "staticwebassets\\img\\physics\\adv_mech.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\physics\\electro.jpg",
+      "PackagePath": "staticwebassets\\img\\physics\\electro.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\physics\\light.jpg",
+      "PackagePath": "staticwebassets\\img\\physics\\light.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\physics\\nuclear.jpg",
+      "PackagePath": "staticwebassets\\img\\physics\\nuclear.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\img\\software.jpg",
+      "PackagePath": "staticwebassets\\img\\software.jpg"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\js\\interface.js",
+      "PackagePath": "staticwebassets\\js\\interface.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\js\\log.js",
+      "PackagePath": "staticwebassets\\js\\log.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\pages\\about.html",
+      "PackagePath": "staticwebassets\\pages\\about.html"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\pages\\contacts.html",
+      "PackagePath": "staticwebassets\\pages\\contacts.html"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\pages\\interface.html",
+      "PackagePath": "staticwebassets\\pages\\interface.html"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\pages\\log.html",
+      "PackagePath": "staticwebassets\\pages\\log.html"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\pages\\pricing.html",
+      "PackagePath": "staticwebassets\\pages\\pricing.html"
+    },
+    {
+      "Id": "F:\\C#\\hsc_ai_server\\hsc_ai_server\\wwwroot\\pages\\subjects.html",
+      "PackagePath": "staticwebassets\\pages\\subjects.html"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.hsc_ai_server.props",
+      "PackagePath": "build\\hsc_ai_server.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.hsc_ai_server.props",
+      "PackagePath": "buildMultiTargeting\\hsc_ai_server.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.hsc_ai_server.props",
+      "PackagePath": "buildTransitive\\hsc_ai_server.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.hsc_ai_server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

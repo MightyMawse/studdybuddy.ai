@@ -1,0 +1,206 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>StudyBuddy.ai - Home</title>
+    <link rel="stylesheet" href="css/site.css">
+    <link rel="stylesheet" href="css/gradient-background.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="/js/index.js"></script>
+</head>
+<body onload="init(), motdScroll()">
+    <div class="header-panel">
+        <div class="header-panel-widgets-container">
+            <div class="header-panel-widgets" onclick="Redirect('/pages/log.html')" id="btn_login">
+                <img src="/img/ico/user.png" style="height: 15px; width: 15px; background-color: #d8dbe2;"> 
+                Login
+            </div>
+            <div class="header-panel-widgets" style="right: 7%;" onclick="Redirect('/pages/log.html')" id="btn_register">
+                <img src="/img/ico/user-add.png" style="height: 15px; width: 15px; background-color: #d8dbe2;"> 
+                Sign Up
+            </div>
+        </div>
+    </div>
+
+    <div class="menu-panel-container">
+        <a class="logo" href="index.html" id="logo"></a>
+        <div class="menu-panel-button-container">
+            <a class="menu-panel-button" href="index.html">
+                <img src="/img/ico/home.png" style="height: 15px; width: 15px;"> 
+                Home
+            </a>
+            <a class="menu-panel-button" href="/pages/subjects.html">
+                <img src="/img/ico/apps.png" style="height: 15px; width: 15px;"> 
+                Subjects
+            </a>
+            <a class="menu-panel-button" href="/pages/about.html">
+                <img src="/img/ico/eye.png" style="height: 15px; width: 15px;"> 
+                About us
+            </a>
+            <a class="menu-panel-button" href="/pages/pricing.html">Pricing</a>
+            <a class="menu-panel-button" href="/pages/contacts.html">
+                <img src="/img/ico/whatsapp.png" style="height: 15px; width: 15px;"> 
+                Contacts us
+            </a>
+        </div>
+    </div>
+
+    <!--Banner with motd-->
+    <div class="home-banner">
+        <div style="background-color: rgba(169, 188, 208, 0.7); 
+        overflow: hidden;z-index: 2;height: 100%; box-shadow: inset 0 0 100px black;">
+            <div class="banner-text" id="motd">MOTD</div>
+        </div>
+    </div>
+
+    <!--Subjects supported-->
+    <div style="display:flex; justify-content: center;">
+        <div class="subject-row-container">
+            <p class="subheading" style="
+                display: flex; justify-content: center;color: #d8dbe2; text-shadow: 0 0 50px lightgrey;">
+                All Subjects
+            </p>
+
+            <hr class="breakline">
+
+            <div class="subject-container">
+                <div class="subject">
+                    Physics
+                    <div class="subject-internal" style="background-image: url('/img/geometry.jpg');"></div>
+                    <div class="subject-internal-content">
+                        <b>Physics:</b> Unravel the mysteries of the universe as you explore the fundamental forces of nature,
+                         from gravity to electromagnetism, with the aid of our AI tutor that brings complex concepts
+                          to life through interactive simulations and real-world examples.
+                           Discover the beauty of the cosmos and unlock the secrets of the physical world with personalized
+                            guidance tailored to your learning style.
+                        <div class="try-button" onclick="SubjectClicked('PHYSICS')">
+                            Lets do it!
+                            <img src="/img/ico/link-alt.png" style="height: 15px; width: 15px;"> 
+                        </div>
+                    </div>
+                </div>
+                <div class="subject">
+                    Mathematics
+                    <div class="subject-internal" style="background-image: url('/img/geometry.jpg');"></div>
+                    <div class="subject-internal-content">
+                        <b>Mathematics:</b> Embark on a journey of mathematical wonders, guided by our AI tutor that makes abstract
+                         concepts tangible through visualizations and step-by-step problem-solving assistance.
+                          From algebraic equations to intricate calculus, our platform empowers you to conquer challenges,
+                           build analytical skills, and develop a deep understanding of mathematics, 
+                           all with the AI's adaptive and patient teaching approach.
+                        <div class="try-button" onclick="SubjectClicked('MATH')">
+                            Lets do it!
+                            <img src="/img/ico/link-alt.png" style="height: 15px; width: 15px;"> 
+                        </div>
+                    </div>
+                </div>
+                <div class="subject">
+                    English
+                    <div class="subject-internal" style="background-image: url('/img/geometry.jpg');"></div>
+                    <div class="subject-internal-content">
+                        <b>English:</b> Dive into the realm of language and literature with our AI tutor as your language companion.
+                         Enhance your reading, writing, and communication skills with personalized lessons tailored to your
+                          interests and proficiency level. Unleash your creativity through writing prompts and receive
+                           constructive feedback from our AI, allowing you to grow as a wordsmith and communicator, and
+                            embark on an inspiring journey through the world of English language and literature.
+                        <div class="try-button" onclick="SubjectClicked('ENGLISH')">
+                            Lets do it!
+                            <img src="/img/ico/link-alt.png" style="height: 15px; width: 15px;"> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="subject-container" style="margin-top: 20%;">
+                <div class="subject">
+                    Chemistry
+                    <div class="subject-internal" style="background-image: url('/img/geometry.jpg');"></div>
+                    <div class="subject-internal-content">
+                        <b>Chemistry:</b> Dive into the realm of matter and transformations with our AI tutor.
+                         Uncover the intricacies of atoms, molecules, and chemical reactions with interactive simulations,
+                          and unlock the beauty of chemistry with personalized guidance, 
+                          empowering you to comprehend the fundamental principles governing the natural world.
+                        <div class="try-button" onclick="SubjectClicked('CHEMISTRY')">
+                            Lets do it!
+                            <img src="/img/ico/link-alt.png" style="height: 15px; width: 15px;"> 
+                        </div>
+                    </div>
+                </div>
+                <div class="subject">
+                    Biology
+                    <div class="subject-internal" style="background-image: url('/img/geometry.jpg');"></div>
+                    <div class="subject-internal-content">
+                        <b>Biology:</b> Discover the wonders of life with our AI tutor. From microscopic cells to complex ecosystems,
+                         explore the secrets of biology through engaging visuals and personalized insights,
+                          gaining a deeper understanding of living organisms and their interactions.
+                        <div class="try-button" onclick="SubjectClicked('BIOLOGY')">
+                            Lets do it!
+                            <img src="/img/ico/link-alt.png" style="height: 15px; width: 15px;"> 
+                        </div>
+                    </div>
+                </div>
+                <div class="subject">
+                    Business
+                    <div class="subject-internal" style="background-image: url('/img/geometry.jpg');"></div>
+                    <div class="subject-internal-content">
+                        <b>Business:</b> Explore commerce and entrepreneurship with our AI tutor. Learn economic principles, marketing strategies,
+                         and financial management. Get personalized advice for business planning and decision-making. 
+                         Thrive in the dynamic world of commerce and unleash your entrepreneurial spirit.
+                        <div class="try-button" onclick="SubjectClicked('BUSINESS')">
+                            Lets do it!
+                            <img src="/img/ico/link-alt.png" style="height: 15px; width: 15px;"> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="subject-container" style="margin-top: 20%;">
+                <div class="subject">
+                    Economics
+                    <div class="subject-internal" style="background-image: url('/img/geometry.jpg');"></div>
+                    <div class="subject-internal-content">
+                        <b>Economics:</b> Unravel the science of scarcity and choice with our AI tutor. Understand supply and demand, macroeconomics,
+                         and microeconomics. Navigate the complexities of the global economy with personalized guidance and interactive simulations.
+                          Make informed decisions and gain insights into market dynamics and policy implications.
+                        <div class="try-button" onclick="SubjectClicked('ECONOMICS')">
+                            Lets do it!
+                            <img src="/img/ico/link-alt.png" style="height: 15px; width: 15px;"> 
+                        </div>
+                    </div>
+                </div>
+                <div class="subject">
+                    Engineering
+                    <div class="subject-internal" style="background-image: url('/img/geometry.jpg');"></div>
+                    <div class="subject-internal-content">
+                        <b>Engineering:</b> Embark on a transformative journey with our AI tutor. Explore diverse disciplines,
+                         from electrical and mechanical to civil and more. Engage in hands-on projects with personalized guidance.
+                          Acquire the skills to design, build, and innovate, becoming a proficient engineer ready to tackle real-world
+                           challenges head-on.
+                        <div class="try-button" onclick="SubjectClicked('ENGINEERING')">
+                            Lets do it!
+                            <img src="/img/ico/link-alt.png" style="height: 15px; width: 15px;"> 
+                        </div>
+                    </div>
+                </div>
+                <div class="subject">
+                    Software Development
+                    <div class="subject-internal" style="background-image: url('/img/geometry.jpg');"></div>
+                    <div class="subject-internal-content">
+                        <b>Software Development:</b> Immerse yourself in the dynamic world of coding and technology with our AI tutor as your guide.
+                         Learn programming languages, software architecture, and best practices. Engage in real-world projects with the AI's support,
+                          honing your problem-solving skills. From web development to mobile apps, unlock your potential as a skilled software developer,
+                           equipped to create innovative solutions that shape the digital landscape.
+                        <div class="try-button" onclick="SubjectClicked('SOFTWARE')">
+                            Lets do it!
+                            <img src="/img/ico/link-alt.png" style="height: 15px; width: 15px;"> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Page footer-->
+    <div class="page-footer-container">
+
+    </div>
+</body>
+</html>
